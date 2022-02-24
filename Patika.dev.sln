@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patika.dev", "Patika.dev\Patika.dev.csproj", "{664DCE64-B52A-468D-BA39-9ADB718EB04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for loop ,break,contiune", "for loop ,break,contiune\for loop ,break,contiune.csproj", "{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64813178-7C35-4A4A-9C3F-84B097CF0D13}
+	EndGlobalSection
+EndGlobal
