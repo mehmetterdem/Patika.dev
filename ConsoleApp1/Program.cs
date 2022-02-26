@@ -46,7 +46,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(item);
             }
-
+            Console.WriteLine(sayıdizisi.Length);
 
 
         }
