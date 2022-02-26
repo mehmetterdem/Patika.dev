@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patika.dev", "Patika.dev\Patika.dev.csproj", "{664DCE64-B52A-468D-BA39-9ADB718EB04E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "for loop ,break,contiune", "for loop ,break,contiune\for loop ,break,contiune.csproj", "{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileForeach", "WhileForeach\WhileForeach.csproj", "{2EDD53A1-6CAF-454C-8F07-3811E75B3C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeach", "WhileForeach\WhileForeach.csproj", "{2EDD53A1-6CAF-454C-8F07-3811E75B3C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{8793FBB2-CCD5-42AF-AD01-0738A96820BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{8793FBB2-CCD5-42AF-AD01-0738A96820BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array2", "ConsoleApp1\array2.csproj", "{1D1C56FA-A342-413D-AC66-95E28C861369}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{664DCE64-B52A-468D-BA39-9ADB718EB04E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9428CEAE-D6EA-4AFC-80B8-E3F24AFFB9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{8793FBB2-CCD5-42AF-AD01-0738A96820BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8793FBB2-CCD5-42AF-AD01-0738A96820BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8793FBB2-CCD5-42AF-AD01-0738A96820BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1C56FA-A342-413D-AC66-95E28C861369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1C56FA-A342-413D-AC66-95E28C861369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1C56FA-A342-413D-AC66-95E28C861369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1C56FA-A342-413D-AC66-95E28C861369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
