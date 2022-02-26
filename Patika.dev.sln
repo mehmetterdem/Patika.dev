@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array2", "ConsoleApp1\array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E42AF74F-0A21-41D8-87EC-C722F4736DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar2Overloading", "Metotlar2Overloading\Metotlar2Overloading.csproj", "{00030C4E-21F5-474E-B712-C7F79E4972F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E42AF74F-0A21-41D8-87EC-C722F4736DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E42AF74F-0A21-41D8-87EC-C722F4736DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E42AF74F-0A21-41D8-87EC-C722F4736DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
