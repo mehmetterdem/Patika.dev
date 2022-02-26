@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar2Overloading", "Metotlar2Overloading\Metotlar2Overloading.csproj", "{00030C4E-21F5-474E-B712-C7F79E4972F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive func", "recursive func\recursive func.csproj", "{0FB82ED6-480C-4A66-80B1-A909721CDF6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00030C4E-21F5-474E-B712-C7F79E4972F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB82ED6-480C-4A66-80B1-A909721CDF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB82ED6-480C-4A66-80B1-A909721CDF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB82ED6-480C-4A66-80B1-A909721CDF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB82ED6-480C-4A66-80B1-A909721CDF6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
