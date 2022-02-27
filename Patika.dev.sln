@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeach", "WhileForeac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{8793FBB2-CCD5-42AF-AD01-0738A96820BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array2", "ConsoleApp1\array2.csproj", "{1D1C56FA-A342-413D-AC66-95E28C861369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array2", "ConsoleApp1\array2.csproj", "{1D1C56FA-A342-413D-AC66-95E28C861369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E42AF74F-0A21-41D8-87EC-C722F4736DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{E42AF74F-0A21-41D8-87EC-C722F4736DC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar2Overloading", "Metotlar2Overloading\Metotlar2Overloading.csproj", "{00030C4E-21F5-474E-B712-C7F79E4972F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar2Overloading", "Metotlar2Overloading\Metotlar2Overloading.csproj", "{00030C4E-21F5-474E-B712-C7F79E4972F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursive func", "recursive func\recursive func.csproj", "{0FB82ED6-480C-4A66-80B1-A909721CDF6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursive func", "recursive func\recursive func.csproj", "{0FB82ED6-480C-4A66-80B1-A909721CDF6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{D304AF79-C7E1-4802-BC58-A846E1DB07B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework", "homework\homework.csproj", "{D304AF79-C7E1-4802-BC58-A846E1DB07B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazırMetodlar-1-string", "HazırMetodlar-1-string\HazırMetodlar-1-string.csproj", "{BC3450E0-7E12-4B13-94FD-46679770C0EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D304AF79-C7E1-4802-BC58-A846E1DB07B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D304AF79-C7E1-4802-BC58-A846E1DB07B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D304AF79-C7E1-4802-BC58-A846E1DB07B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
