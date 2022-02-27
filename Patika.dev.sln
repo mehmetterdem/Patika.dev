@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursive func", "recursive
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework", "homework\homework.csproj", "{D304AF79-C7E1-4802-BC58-A846E1DB07B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazırMetodlar-1-string", "HazırMetodlar-1-string\HazırMetodlar-1-string.csproj", "{BC3450E0-7E12-4B13-94FD-46679770C0EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HazırMetodlar-1-string", "HazırMetodlar-1-string\HazırMetodlar-1-string.csproj", "{BC3450E0-7E12-4B13-94FD-46679770C0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazırMetotlar-DatetimeVeMath", "hazırMetotlar-DatetimeVeMath\hazırMetotlar-DatetimeVeMath.csproj", "{C6D0E21B-8552-4CC1-BBA4-846EBB5523E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC3450E0-7E12-4B13-94FD-46679770C0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D0E21B-8552-4CC1-BBA4-846EBB5523E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D0E21B-8552-4CC1-BBA4-846EBB5523E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D0E21B-8552-4CC1-BBA4-846EBB5523E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D0E21B-8552-4CC1-BBA4-846EBB5523E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
