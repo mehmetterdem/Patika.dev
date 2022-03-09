@@ -48,6 +48,7 @@ namespace KoleksiyonlarDictinory
             {
                 Console.WriteLine(item);
             }
+            
         }
     }
 }
